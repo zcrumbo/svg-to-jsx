@@ -1,3 +1,7 @@
+# purpose
+
+Wrap this module in rollup plugin to be consumed in Vue
+
 # svg-to-jsx
 
 [![Build Status](https://travis-ci.org/janjakubnanista/svg-to-jsx.svg?branch=master)](https://travis-ci.org/janjakubnanista/svg-to-jsx)
